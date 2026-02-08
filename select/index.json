@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Epilogue",
+  "base_artist": "Aile The Shota",
+  "createdAt": "2026-02-08T09:33:11.432040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM feat. E. Mason",
+      "has_synced": true,
+      "path": "select/01_Hero_v.s._Villain_(Epilogue)_MF_DOOM_feat._E._Mason.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hero Vs Villain (Epilogue)",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/02_Hero_Vs_Villain_(Epilogue)_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Is Not Enough (Epilogue)",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/03_This_Is_Not_Enough_(Epilogue)_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Epilogue",
+      "artist": "The Antlers",
+      "has_synced": true,
+      "path": "select/04_Epilogue_The_Antlers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hypnopomp (Epilogue) [F. Bianca Spriggs]",
+      "artist": "Cunninlynguists",
+      "has_synced": true,
+      "path": "select/05_Hypnopomp_(Epilogue)_[F._Bianca_Spriggs]_Cunninlynguists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Company Calls Epilogue",
+      "artist": "Death Cab for Cutie",
+      "has_synced": true,
+      "path": "select/06_Company_Calls_Epilogue_Death_Cab_for_Cutie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Epilogue",
+      "artist": "Christophe Beck",
+      "has_synced": false,
+      "path": "select/07_Epilogue_Christophe_Beck.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Epilogue",
+      "artist": "Claude-Michel Schönberg",
+      "has_synced": false,
+      "path": "select/08_Epilogue_Claude-Michel_Schönberg.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Epilogue",
+      "artist": "The 'Les Misérables 2010' Company",
+      "has_synced": false,
+      "path": "select/09_Epilogue_The_'Les_Misérables_2010'_Company.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Epilogue",
+      "artist": "Amanda Seyfried feat. Hugh Jackman, Eddie Redmayne, Anne Hathaway, Colm Wilkinson & Les Misérables Cast",
+      "has_synced": false,
+      "path": "select/10_Epilogue_Amanda_Seyfried_feat._Hugh_Jackman,_Eddie_Redmayne,_Anne_Hathaway,_Colm_Wilkinso.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Epilogue: ...And the Clever Depart",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/11_Epilogue__...And_the_Clever_Depart_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Epilogue",
+      "artist": "Aile The Shota",
+      "has_synced": false,
+      "path": "select/pl_01_Epilogue_Aile_The_Shota.txt"
+    }
+  ]
+}
